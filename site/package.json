@@ -1,0 +1,28 @@
+{
+  "name": "techmap",
+  "version": "0.0.1",
+  "description": "Biggest technical architectural diagram",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkhalifa/techmap.git"
+  },
+  "keywords": [
+    "technical",
+    "map",
+    "architecture"
+  ],
+  "author": "Zeinab Khalifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkhalifa/techmap/issues"
+  },
+  "homepage": "https://github.com/zkhalifa/techmap#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express3-handlebars": "^0.5.2"
+  }
+}
